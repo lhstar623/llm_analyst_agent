@@ -1,0 +1,34 @@
+# Core Dependencies
+streamlit==1.40.0
+pandas==2.2.2
+numpy==1.24.3
+python-dotenv==1.0.1
+
+# Data Visualization
+matplotlib==3.8.0
+seaborn==0.13.0
+plotly==5.17.0
+kaleido
+
+# AI/ML Framework Dependencies
+pydantic-ai
+pydantic-logfire
+logfire
+nest-asyncio
+pillow==10.4.0
+
+# Standard Library Extensions (usually included with Python)
+# asyncio - built-in
+# datetime - built-in
+# os - built-in
+# tempfile - built-in
+# pathlib - built-in
+# io - built-in
+# contextlib - built-in
+# dataclasses - built-in (Python 3.7+)
+# typing - built-in (Python 3.5+)
+# subprocess - built-in
+# sys - built-in
+# json - built-in
+# re - built-in
+# base64 - built-in
