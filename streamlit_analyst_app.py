@@ -6,7 +6,7 @@ from datetime import datetime
 from pathlib import Path
 import asyncio
 # from analyst import run_full_agent
-from analyst_agent_clean import run_full_agent
+from analyst_agent import run_full_agent
 import base64
 from typing import Optional
 import plotly.express as px
