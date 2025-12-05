@@ -1,0 +1,58 @@
+﻿Model,Organization,Global Average,Reasoning Average,Coding Average,Agentic Coding Average,Mathematics Average,Data Analysis Average,Language Average,IF Average
+Claude 4.5 Opus Thinking High Effort,Anthropic,75.58,84.12,79.65,55.00,94.52,71.98,81.26,62.55
+Claude 4.5 Opus Thinking Medium Effort,Anthropic,74.87,84.94,77.48,58.33,92.99,69.51,80.35,60.52
+Gemini 3 Pro Preview High,Google,74.14,79.89,74.60,45.00,94.12,74.91,84.62,65.85
+GPT-5 High,OpenAI,73.51,82.94,77.10,46.67,93.04,71.63,80.66,62.52
+GPT-5 Pro,OpenAI,73.48,87.59,72.11,43.33,94.22,72.42,80.69,63.96
+GPT-5 Codex,OpenAI,73.36,87.78,69.61,48.33,93.09,70.29,77.66,66.77
+GPT-5.1 High,OpenAI,72.52,83.06,72.49,43.33,93.53,72.07,79.26,63.90
+GPT-5 Medium,OpenAI,72.26,80.06,75.05,50.00,91.43,72.38,78.49,58.42
+Claude Sonnet 4.5 Thinking,Anthropic,71.83,80.78,80.36,50.00,90.08,71.76,76.45,53.35
+GPT-5.1 Codex,OpenAI,70.84,87.97,71.78,43.33,91.11,68.80,69.48,63.39
+GPT-5 Mini High,OpenAI,69.33,70.43,68.20,43.33,90.60,71.95,75.52,65.27
+Claude 4.5 Opus Thinking Low Effort,Anthropic,69.11,71.26,77.48,50.00,87.54,65.96,80.75,50.81
+Claude 4.1 Opus Thinking,Anthropic,66.86,73.10,74.66,45.00,88.93,71.14,72.76,42.40
+DeepSeek V3.2 Thinking,DeepSeek,66.61,81.56,64.62,38.33,92.38,70.80,70.41,48.19
+GPT-5 Mini,OpenAI,66.48,62.21,76.07,33.33,88.50,71.86,69.15,64.22
+GPT-5 Low,OpenAI,66.13,63.32,74.28,35.00,87.18,69.72,78.40,55.03
+Gemini 3 Pro Preview Low,Google,66.11,71.49,70.64,50.00,92.98,71.30,79.49,26.88
+Kimi K2 Thinking,Moonshot AI,65.85,65.31,67.44,38.33,90.79,70.57,66.45,62.03
+Claude 4 Sonnet Thinking,Anthropic,65.42,70.01,77.48,38.33,85.00,69.84,72.91,44.34
+GPT-5.1 Codex Mini,OpenAI,65.03,66.95,69.93,35.00,91.01,70.29,63.01,59.02
+Claude 4.5 Opus Medium Effort,Anthropic,64.79,51.62,78.51,63.33,86.09,67.19,78.66,28.11
+Claude Haiku 4.5 Thinking,Anthropic,64.28,64.24,72.81,36.67,90.71,69.33,66.45,49.78
+Claude 4.5 Opus High Effort,Anthropic,63.91,52.54,77.80,60.00,85.93,67.44,77.09,26.59
+DeepSeek V3.2 Speciale,DeepSeek,63.81,81.45,68.20,6.67,92.51,73.08,74.53,50.26
+Grok 4,xAI,63.52,80.85,73.13,26.67,89.03,69.53,76.39,29.07
+Grok 4.1 Fast,xAI,62.73,83.60,69.61,30.00,89.96,63.39,74.33,28.20
+Gemini 2.5 Pro (Max Thinking),Google,62.23,71.74,75.69,25.00,83.09,71.50,75.50,33.07
+DeepSeek V3.2 Exp Thinking,DeepSeek,62.07,62.49,70.06,26.67,90.19,72.78,71.06,41.27
+Claude 4.5 Opus Low Effort,Anthropic,61.42,47.08,78.18,50.00,83.14,65.38,77.18,28.95
+Claude Sonnet 4.5,Anthropic,59.93,45.72,76.07,50.00,80.83,67.34,76.00,23.52
+GLM 4.6,Z.AI,59.60,62.75,71.02,35.00,91.50,71.74,58.99,26.19
+GPT-5 Mini Low,OpenAI,58.52,47.87,69.55,33.33,80.32,67.48,60.41,50.71
+Claude 4.1 Opus,Anthropic,58.33,40.53,76.07,41.67,80.44,66.95,76.75,25.92
+Qwen 3 235B A22B Thinking 2507,Alibaba,57.74,59.20,68.97,6.67,84.53,74.65,69.52,40.64
+DeepSeek V3.2,DeepSeek,57.38,45.00,75.69,45.00,81.94,66.71,64.24,23.06
+Claude 4 Sonnet,Anthropic,56.83,43.56,80.74,36.67,78.48,64.68,71.01,22.68
+Gemini 2.5 Flash (Max Thinking) (2025-09-25),Google,55.95,48.60,67.50,20.00,89.80,72.71,65.34,27.68
+DeepSeek V3.2 Exp,DeepSeek,55.29,47.33,73.19,35.00,81.51,65.09,65.60,19.33
+GPT-5 Nano,OpenAI,54.24,44.60,67.38,23.33,78.93,65.73,47.73,51.98
+GPT-5 Nano High,OpenAI,53.87,49.05,62.39,20.00,80.88,62.20,46.84,55.70
+Qwen 3 235B A22B Instruct 2507,Alibaba,53.85,57.24,69.61,13.33,83.71,65.24,66.07,21.72
+Gemini 2.5 Flash (Max Thinking) (2025-06-05),Google,53.57,48.85,66.03,15.00,84.67,69.68,62.27,28.50
+Qwen 3 Next 80B A3B Instruct,Alibaba,53.27,55.66,68.20,10.00,84.90,68.63,66.34,19.19
+Kimi K2 Instruct,Moonshot AI,52.84,44.97,74.28,25.00,75.20,63.41,66.69,20.36
+GPT-5 Chat,OpenAI,52.67,43.62,77.48,16.67,74.43,64.48,66.74,25.26
+GPT OSS 120b,OpenAI,51.66,49.61,60.21,15.00,81.16,56.77,48.59,50.29
+Claude Haiku 4.5,Anthropic,50.96,39.25,72.17,28.33,75.96,66.19,57.05,17.75
+Grok Code Fast,xAI,49.82,42.40,64.44,30.00,72.02,69.02,48.56,22.27
+Qwen 3 32B,Alibaba,49.32,54.34,66.03,1.67,81.59,68.29,55.54,17.77
+Gemini 2.5 Flash Lite (Max Thinking) (2025-09-25),Google,48.07,40.21,65.39,1.67,80.87,67.64,52.60,28.11
+Gemini 2.5 Flash Lite (Max Thinking) (2025-06-17),Google,47.89,43.79,66.41,5.00,77.72,67.25,51.98,23.08
+GPT-5.1 No Thinking,OpenAI,47.29,27.08,77.48,26.67,58.35,64.14,53.84,23.50
+GPT-5 Minimal,OpenAI,45.86,31.84,72.55,26.67,53.00,64.43,48.18,24.33
+Qwen 3 30B A3B,Alibaba,45.44,45.57,48.88,1.67,79.80,66.60,54.47,21.11
+GPT-5 Mini Minimal,OpenAI,44.63,34.40,70.70,18.33,61.37,62.02,44.79,20.81
+GPT-5 Nano Low,OpenAI,40.26,36.90,52.73,10.00,62.88,54.85,35.40,29.10
+Grok 4.1 Fast (Non-Reasoning),xAI,39.25,33.54,56.11,10.00,48.60,58.71,50.72,17.08
