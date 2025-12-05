@@ -15,6 +15,9 @@ import os
 import pandas as pd
 from io import StringIO
 from contextlib import redirect_stdout
+
+from dataclasses import dataclass, field
+
 load_dotenv()
 
 
@@ -126,7 +129,7 @@ class PlannerAgentOutput(BaseModel):
 planner_agent = Agent(
     model=model,
     deps_type=State,
-    result_type=PlannerAgentOutput,
+    output_type=PlannerAgentOutput,
     tools=[Tool(get_column_list, takes_ctx=False)]
 )
 
@@ -203,7 +206,7 @@ execution_agent = Agent(
     model=model,
     tools=[Tool(graph_generator), Tool(python_execution_tool)],
     deps_type=State,
-    result_type=ExecutionAgentOutput
+    output_type=ExecutionAgentOutput
 )
 
 @execution_agent.system_prompt
@@ -349,7 +352,7 @@ class FinalAnalysisOutput(BaseModel):
 supervisor_agent = Agent(
     model=model,
     deps_type=State,
-    result_type=SupervisorAgentOutput,
+    output_type=SupervisorAgentOutput,
     tools=[Tool(run_execution_agent, takes_ctx=True)]
 )
 
